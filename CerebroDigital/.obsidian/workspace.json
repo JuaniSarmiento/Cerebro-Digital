@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "16fd40ffe7e68302",
+    "type": "split",
+    "children": [
+      {
+        "id": "afdd687d7f8b28f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ca58b0e4e9552ff",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "juggl_view"
+            }
+          },
+          {
+            "id": "79b1e87c62984027",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "juggl_view"
+            }
+          },
+          {
+            "id": "1e20a2ae466d9346",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "juggl_view"
+            }
+          },
+          {
+            "id": "e8e0b4cd62ccff18",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d8de0e952f98d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4c74cb020747051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1a8796b2fe7aa64",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "8fd7b33ac56c9cff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "c76b73c8768e8aa8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16b1523d798d38eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f32fed9fd110dba5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41c95f5bbc955dfb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "d51a86adedf01212",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "0eedac5a389beb6b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "45d9ea5e24b9a295",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "ccc08ae50b2822e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bienvenido"
+            }
+          },
+          {
+            "id": "997df6259c63a6e7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "425f35579e8ce8d4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          },
+          {
+            "id": "00336a86c8395b00",
+            "type": "leaf",
+            "state": {
+              "type": "infranodus-graph-view",
+              "state": {},
+              "icon": "infranodus-icon"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "juggl:Juggl global graph": false,
+      "infranodus-graph-view:InfraNodus Graph View": false
+    }
+  },
+  "active": "e8e0b4cd62ccff18",
+  "lastOpenFiles": [
+    "00-Inbox/2026-05-18-plataforma-educativa-es-tesis-doctoral-cortez.md",
+    "00-Inbox/2026-05-18-plataforma-educativa-es-tesis-doctoral-cortez.md.tmp.761578.eef74f6367f5",
+    "00-Inbox/2026-05-18-aclaracion-alberto-cortez-utn-unsl.md",
+    "00-Inbox/2026-05-18-aclaracion-alberto-cortez-utn-unsl.md.tmp.761578.f5c5606b1067",
+    "02-Conocimiento/Objetivos-12-Meses.md",
+    "02-Conocimiento/Personal/Dia-Tipo.md",
+    "00-Inbox/2026-05-18-cronotipo-gym-siesta-tarde-noche.md",
+    "00-Inbox/2026-05-18-cronotipo-gym-siesta-tarde-noche.md.tmp.761578.b90d6567ad65",
+    "00-Inbox/2026-05-18-reframe-tupad-asincronico-y-trayectoria-2024-2026.md",
+    "00-Inbox/2026-05-18-reframe-tupad-asincronico-y-trayectoria-2024-2026.md.tmp.761578.b42cb4acc1c0",
+    "00-Inbox/2026-05-18-trabajo-doble-tupad-programador-ingreso.md",
+    "00-Inbox/2026-05-18-trabajo-doble-tupad-programador-ingreso.md.tmp.761578.e42344a6b8b3",
+    "00-Inbox/2026-05-18-gym-pausa-y-vuelta-comida-viaje-chile.md",
+    "00-Inbox/2026-05-18-gym-pausa-y-vuelta-comida-viaje-chile.md.tmp.761578.5ee31f940378",
+    "01-Proyectos/Jarvis/Jarvis.md",
+    "01-Proyectos/Jarvis/Jarvis.md.tmp.761578.74fa46d49ce2",
+    "01-Proyectos/Jarvis/2026-05-15-jarvis-optimizaciones-resultados.md",
+    "01-Proyectos/Jarvis/2026-05-15-jarvis-primer-loop-funcionando.md",
+    "01-Proyectos/Jarvis/2026-05-15-jarvis-arquitectura-validada-piezas-listas.md",
+    "01-Proyectos/Jarvis/2026-05-15-jarvis-arquitectura-y-plan-de-construccion.md",
+    "01-Proyectos/Jarvis/2026-05-15-proyecto-jarvis-vision-inicial.md",
+    "01-Proyectos/Jarvis",
+    "00-Inbox/2026-05-15-jarvis-optimizaciones-resultados.md",
+    "00-Inbox/2026-05-15-jarvis-optimizaciones-resultados.md.tmp.1838836.935289ed1b17",
+    "00-Inbox/2026-05-15-jarvis-primer-loop-funcionando.md",
+    "00-Inbox/2026-05-15-jarvis-primer-loop-funcionando.md.tmp.1838836.cccc4b4014e6",
+    "00-Inbox/2026-05-15-jarvis-arquitectura-validada-piezas-listas.md",
+    "00-Inbox/2026-05-15-jarvis-arquitectura-y-plan-de-construccion.md",
+    "00-Inbox/2026-05-15-proyecto-jarvis-vision-inicial.md",
+    "01-Proyectos/CerebroDigital.md",
+    "Sin título.canvas",
+    "01-Proyectos/2026-05-14-refactor-ai-native-ejercicios-reusables.md",
+    "02-Conocimiento/Concepto-Dominio-Futbol.md",
+    "02-Conocimiento/Expertise-Tecnica.md",
+    "Sin título.md",
+    "03-Recursos/Reglas-Colaboracion-IA.md",
+    "03-Recursos/Skills-Claude-Code.md"
+  ]
+}
