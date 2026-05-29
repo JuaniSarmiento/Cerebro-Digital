@@ -5,7 +5,7 @@ fuente: claude-code (sesion-autonoma)
 tags: [inbox, sin-revisar, proyecto, jarvis, optimizacion, latencia]
 ---
 
-# Jarvis — Resultados de optimización (sesión autónoma)
+# [[Jarvis]] — Resultados de optimización (sesión autónoma)
 
 Juani me dejó tiempo autónomo mientras se bañaba para "probar, mejorar y bajar mucho el tiempo". Acá van los resultados concretos.
 

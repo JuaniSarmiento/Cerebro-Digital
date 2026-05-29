@@ -7,7 +7,7 @@ tags: [inbox, sin-revisar, proyecto, jarvis, hito, primera-conversacion-por-voz]
 
 # Jarvis — Primer loop end-to-end funcionando
 
-Hoy hablé por voz con Jarvis en español por primera vez. El spike `scripts/spike_loop.py` ejecutó las cuatro piezas en cadena: mic → Whisper → JarvisSession (tmux) → XTTS → parlantes.
+Hoy hablé por voz con [[Jarvis]] en español por primera vez. El spike `scripts/spike_loop.py` ejecutó las cuatro piezas en cadena: mic → Whisper → JarvisSession (tmux) → XTTS → parlantes.
 
 ## Lo que se confirmó
 
@@ -47,7 +47,7 @@ Total perceptido (sin contar grabación ni audio sonando) ronda los 12-14s. Esto
 - **Whisper en español falla con palabras inglesas** dentro de oraciones. Considerar `initial_prompt="Conversación con Jarvis."` para bias.
 - **Detección de end-of-response por marker `✻`** es más rápida que esperar estabilidad temporal del output.
 - **Parser de respuestas asistente** funciona limpio extrayendo lineas con `● ` y siguientes indentadas.
-- **No vale la pena pelearle a hooks de Engram/skills** del nivel global de Claude Code — quedan filtradas por el parser.
+- **No vale la pena pelearle a hooks de [[Sistema-Memoria-Engram|Engram]]/skills** del nivel global de Claude Code — quedan filtradas por el parser.
 
 ## Estructura actual del código de producción
 

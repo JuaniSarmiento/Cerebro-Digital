@@ -25,7 +25,7 @@ Juani me contó varios estados/planes personales en una sola tirada:
 
 ## Viaje a Chile
 
-- **Quiere viajar a Chile a comprar ropa**
+- **Quiere viajar a Chile a comprar [[Lifestyle-e-Intereses|ropa]]**
 - Sin fecha definida todavía
 - Implica: presupuesto, ventana de tiempo, prioridad relativa frente a otras cosas
 

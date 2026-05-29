@@ -8,7 +8,7 @@ tags: [prueba, taskflow, mcps, capacidades, demo]
 # Prueba de capacidades — TaskFlow + MCPs
 
 ## Contexto
-Juani quiso testear mis capacidades generales: programación, deploy, MCPs, monitoreo del VPS.
+Juani quiso testear mis capacidades generales: programación, deploy, MCPs, monitoreo del [[VPS-Infraestructura|VPS]].
 
 ## Lo que se hizo
 - **TaskFlow**: App demo (task manager) con FastAPI backend + React/TypeScript frontend. Se lanzaron dos agentes Opus en paralelo (uno para cada lado), ambos trabajando contra el mismo contrato de API. Repo creado y pusheado a GitHub: https://github.com/JuaniSarmiento/taskflow
@@ -22,4 +22,4 @@ Juani quiso testear mis capacidades generales: programación, deploy, MCPs, moni
 - Idea a futuro: meterme en el grupo de WhatsApp "Pastela" (grupo de amigos).
 
 ## Explicación para Luna
-Se le explicó a Luna en un párrafo simple qué puedo hacer como asistente.
+Se le explicó a [[Luna]] en un párrafo simple qué puedo hacer como asistente.

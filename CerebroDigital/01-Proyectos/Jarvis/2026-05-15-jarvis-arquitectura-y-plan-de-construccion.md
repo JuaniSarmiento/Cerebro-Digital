@@ -11,9 +11,9 @@ Refinamos la visión inicial (ver `[[2026-05-15-proyecto-jarvis-vision-inicial]]
 
 ## Reframe del scope
 
-Jarvis NO es un proyecto desde cero. Es una **capa de voz + control GUI alrededor de Claude Code**, que ya tiene acceso a archivos, sistema, y al vault. Dos de las tres piezas grandes ya están funcionando:
+[[Jarvis]] NO es un proyecto desde cero. Es una **capa de voz + control GUI alrededor de Claude Code**, que ya tiene acceso a archivos, sistema, y al [[CerebroDigital|vault]]. Dos de las tres piezas grandes ya están funcionando:
 
-- **Obsidian / segundo cerebro** → ya configurado en `CLAUDE.md` global (protocolo CerebroDigital + Engram)
+- **Obsidian / segundo cerebro** → ya configurado en `CLAUDE.md` global (protocolo CerebroDigital + [[Sistema-Memoria-Engram|Engram]])
 - **Acceso al sistema** → Claude Code en Linux lo hace nativamente
 - **Voz + control GUI más allá de terminal** → ESTO es lo que falta y es el proyecto real
 

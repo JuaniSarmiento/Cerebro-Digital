@@ -26,7 +26,7 @@ Tono firme, no negociable. Cortó el análisis. Va a volver, planea ir mañana 2
 ## Implicancias para diseñar la vuelta
 
 - El bloque a proteger es **tarde / tarde-noche**, no mañana
-- La trampa con TUPAD asincrónico (trabajo que se expande hasta tragar el día) impacta justo en su ventana natural — porque a la tarde es cuando suele ser más fácil "estirar" trabajo
+- La trampa con [[Formacion-Academica-UTN|TUPAD]] asincrónico (trabajo que se expande hasta tragar el día) impacta justo en su ventana natural — porque a la tarde es cuando suele ser más fácil "estirar" trabajo
 - Estrategia honesta: bloquear desde tal hora hasta tal hora **como si fuera una clase fija** que no se mueve
 - La mejora alimentaria activa puede actuar como anclaje de adherencia inicial (un hábito sano ya andando ayuda a meter el segundo)
 

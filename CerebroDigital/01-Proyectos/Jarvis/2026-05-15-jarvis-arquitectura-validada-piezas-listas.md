@@ -5,7 +5,7 @@ fuente: claude-code (sesion-conversacional)
 tags: [inbox, sin-revisar, proyecto, jarvis, hito, arquitectura-validada]
 ---
 
-# Jarvis — Arquitectura validada, las 4 piezas funcionan
+# [[Jarvis]] — Arquitectura validada, las 4 piezas funcionan
 
 Hito importante: terminamos de validar todas las piezas técnicas de v1. Ya tenemos confirmado que la arquitectura elegida funciona end-to-end, falta solo integrarlas en un loop completo.
 
@@ -30,7 +30,7 @@ Hito importante: terminamos de validar todas las piezas técnicas de v1. Ya tene
 
 Creamos `.claude/` dentro del proyecto con:
 - `CLAUDE.md`: persona de Jarvis + override del CLAUDE.md global (Engram OFF, Obsidian ON, respuestas voice-friendly cortas sin markdown)
-- `settings.json`: hooks vacíos (intento de apagar hook de Engram — parcialmente exitoso)
+- `settings.json`: hooks vacíos (intento de apagar hook de [[Sistema-Memoria-Engram|Engram]] — parcialmente exitoso)
 - `jarvis-mcp.json`: `{"mcpServers": {}}` (apaga MCPs)
 
 Lanzamos con: `--model sonnet --settings .claude/settings.json --mcp-config .claude/jarvis-mcp.json --plugin-dir /tmp/jarvis-no-plugins`

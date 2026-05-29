@@ -42,7 +42,7 @@ Asistente personal vía WhatsApp usando Claude Agent SDK + Baileys.
 - **Anti-ban**: delays aleatorios, chunking de mensajes, rate limiting (8 msg/min max)
 - **Owners**: configurados en `OWNERS` array de `index.js` (LID + número WA de Juani)
 - **Workdir**: `~/proyectos/workdir/` — ahí ejecuta comandos y crea archivos cuando Juani lo pide por WhatsApp
-- **Cerebro Digital**: puede guardar conversaciones significativas en `00-Inbox/` del vault y pushear a GitHub
+- **[[CerebroDigital|Cerebro Digital]]**: puede guardar conversaciones significativas en `00-Inbox/` del vault y pushear a GitHub
 - **System prompt**: mismo estilo rioplatense, contexto completo de Juani, reglas de conventional commits
 
 ### zepp-health-cli — Datos de salud Amazfit

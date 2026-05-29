@@ -9,7 +9,7 @@ tags: [proyecto, tesis-cortez, refactor, ai-native-n4, ejercicios, pid-utn, mile
 
 ## El proyecto en una línea
 
-[[Plataforma-Educativa-IA|AI-Native N4]] es la plataforma de la **tesis doctoral de Alberto Cortez (UNSL)** — _"Modelo AI-Native con Trazabilidad Cognitiva N4 para la Formación en Programación Universitaria"_. Yo estoy colaborando en el desarrollo (figuro en agradecimientos junto a Roberti, Martínez, Naveda, Robledo).
+[[Plataforma-Educativa-IA|AI-Native N4]] es la plataforma de la **tesis doctoral de [[Alberto|Alberto Cortez]] (UNSL)** — _"Modelo AI-Native con Trazabilidad Cognitiva N4 para la Formación en Programación Universitaria"_. Yo estoy colaborando en el desarrollo (figuro en agradecimientos junto a Roberti, Martínez, Naveda, Robledo).
 
 Es un piloto académico real corriendo en UNSL: 18 estudiantes, 106 classifications de apropiación cognitiva (delegación pasiva / superficial / reflexiva), tutor socrático con CTR (Cognitive Trace Record) como cadena criptográfica SHA-256 append-only.
 

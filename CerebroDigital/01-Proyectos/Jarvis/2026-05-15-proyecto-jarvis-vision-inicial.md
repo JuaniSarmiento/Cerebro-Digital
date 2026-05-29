@@ -7,12 +7,12 @@ tags: [inbox, sin-revisar, proyecto, jarvis, ia-personal, vision]
 
 # Proyecto Jarvis — Visión inicial
 
-Juani compartió la visión completa de un proyecto personal: **Jarvis**, una IA personal corriendo 24/7 en su máquina, con voz, oídos, ojos y manos sobre el sistema. Documento extenso de scope, presentado como una sola idea integrada.
+Juani compartió la visión completa de un proyecto personal: **[[Jarvis]]**, una IA personal corriendo 24/7 en su máquina, con voz, oídos, ojos y manos sobre el sistema. Documento extenso de scope, presentado como una sola idea integrada.
 
 ## Resumen de las capas
 
 1. **Sentidos**: wake word "Jarvis", voz clonada natural, OCR de pantalla, voice ID (solo le obedece a él).
-2. **Cerebro y memoria**: routing entre Claude / Copilot / modelo local; memoria viviendo en el vault de Obsidian, indexado vectorialmente, re-indexación automática, conexiones [[]] auto-generadas.
+2. **Cerebro y memoria**: routing entre Claude / Copilot / modelo local; memoria viviendo en el [[CerebroDigital|vault]] de Obsidian, indexado vectorialmente, re-indexación automática, conexiones [[]] auto-generadas.
 3. **Manos**: control total de apps, archivos, comandos del sistema, monitor de salud.
 4. **Segundo cerebro activo**: captura por voz al vault, reorganización inteligente, revisión espaciada, modo investigación, daily note automática.
 5. **Comunicación con el mundo**: mails, WhatsApp (con voz clonada opcional), calendario, recordatorios, resúmenes de YouTube / artículos, traducción en vivo.

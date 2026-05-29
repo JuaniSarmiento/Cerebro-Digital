@@ -7,7 +7,7 @@ tags: [inbox, sin-revisar, trabajo, identidad, tupad, profesor, ingresos, carga-
 
 # Doble trabajo: programador + profesor TUPAD, ingreso 1.5M, más cargado
 
-Contexto que apareció al preguntarle qué cambió respecto a 2024 (cuando sostenía el gym sin problema):
+Contexto que apareció al preguntarle qué cambió respecto a 2024 (cuando sostenía el [[Lifestyle-e-Intereses|gym]] sin problema):
 
 ## Trabajos actuales (ambos activos)
 

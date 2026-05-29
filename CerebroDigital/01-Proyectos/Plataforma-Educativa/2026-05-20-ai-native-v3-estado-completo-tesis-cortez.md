@@ -11,7 +11,7 @@ tags: [inbox, sin-revisar, proyecto-faculta, tesis-cortez-unsl, ai-native, tutor
 
 ## 1. Qué es el proyecto
 
-**AI-Native V3** (también conocido como **juniperra** por el nombre de la carpeta en disco) es la plataforma de la **tesis doctoral de Alberto Alejandro Cortez (UNSL)**: *"Modelo AI-Native con Trazabilidad Cognitiva N4 para la Formación en Programación Universitaria"*. Es un piloto académico de la Universidad Nacional de San Luis, **NO un producto comercial**.
+**[[Plataforma-Educativa-IA|AI-Native V3]]** (también conocido como **juniperra** por el nombre de la carpeta en disco) es la plataforma de la **[[2026-05-18-plataforma-educativa-es-tesis-doctoral-cortez|tesis doctoral]] de [[Alberto|Alberto Alejandro Cortez]] (UNSL)**: *"Modelo AI-Native con Trazabilidad Cognitiva N4 para la Formación en Programación Universitaria"*. Es un piloto académico de la Universidad Nacional de San Luis, **NO un producto comercial**.
 
 ### El problema que ataca
 

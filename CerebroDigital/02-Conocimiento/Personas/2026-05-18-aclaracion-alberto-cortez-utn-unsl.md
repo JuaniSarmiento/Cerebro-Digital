@@ -7,12 +7,12 @@ tags: [inbox, sin-revisar, persona, alberto, correccion-vault, deduplicacion]
 
 # Aclaración — Alberto Cortez es UNA sola persona
 
-Juani confirmó que el "Alberto" referenciado en distintas notas es **la misma persona**: **Alberto Cortez**.
+Juani confirmó que el "Alberto" referenciado en distintas notas es **la misma persona**: **[[Alberto|Alberto Cortez]]**.
 
 ## Identidad consolidada (corrección a [[Personas/Alberto]])
 
 - **Nombre completo**: Alberto Cortez
-- **Rol institucional 1**: Jefe de la carrera de programación en UTN Mendoza
+- **Rol institucional 1**: Jefe de la carrera de programación en [[Formacion-Academica-UTN|UTN]] Mendoza
 - **Rol institucional 2**: Doctorando en UNSL (Universidad Nacional de San Luis)
 - **Rol con Juani**: co-creator de [[Plataforma-Educativa-IA]] / [[2026-05-14-refactor-ai-native-ejercicios-reusables|AI-Native N4]]
 - **Arreglo con Juani**: trabajo en la plataforma + gestión de la carrera, a cambio de promoción académica de materias

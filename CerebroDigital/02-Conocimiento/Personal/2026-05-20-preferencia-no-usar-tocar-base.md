@@ -16,4 +16,4 @@ Reemplazos válidos cuando quiero "decir presente / saludar / ver cómo va":
 - "Quería saber cómo andás"
 - "Pasaba a ver si…"
 
-Aplicar especialmente en comunicaciones del campus TUP (mensajes a alumnos) pero también en general.
+Aplicar especialmente en comunicaciones del campus [[Formacion-Academica-UTN|TUP]] (mensajes a alumnos) pero también en general.

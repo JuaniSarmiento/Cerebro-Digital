@@ -7,12 +7,12 @@ tags: [inbox, sin-revisar, proyecto, plataforma-educativa, tesis, reframe, corre
 
 # Plataforma-Educativa-IA = AI-Native N4 = tesis doctoral Cortez (UNSL)
 
-Juani confirmó: **son el mismo sistema, dos nombres distintos en el vault.**
+Juani confirmó: **son el mismo sistema, dos nombres distintos en el [[CerebroDigital|vault]].**
 
 ## Identidad real del proyecto
 
-- **Nombres usados**: "Plataforma Educativa con IA" (en `Plataforma-Educativa-IA.md`) y "AI-Native N4" (en log del 14)
-- **Naturaleza real**: materialización tecnológica de la **tesis doctoral** de Alberto Cortez en UNSL
+- **Nombres usados**: "[[Plataforma-Educativa-IA|Plataforma Educativa con IA]]" (en `Plataforma-Educativa-IA.md`) y "AI-Native N4" (en log del 14)
+- **Naturaleza real**: materialización tecnológica de la **tesis doctoral** de [[Alberto|Alberto Cortez]] en UNSL
 - **Título tesis**: _"Modelo AI-Native con Trazabilidad Cognitiva N4 para la Formación en Programación Universitaria"_
 - **Stack real (no 12 microservicios genéricos)**: 11 servicios Python (FastAPI + SQLAlchemy 2.0 async + Alembic) + 3 frontends React 19 (web-admin / web-teacher / web-student) + 4 DBs Postgres + Redis + Keycloak
 - **Working dir**: `/home/juanisarmiento/ProyectosFacultad/juani4/AI-NativeV3-main/`
@@ -36,7 +36,7 @@ El framing comercial ("escalar plataforma a 2da facultad para llegar a $2.5M") e
 |-------------|-----|
 | **UTN Mendoza (FRM)** | Carrera de Juani como alumno + bloque grande del Día Tipo + UTN-FRM del PID |
 | **UNSL** | Doctorado de Cortez + piloto académico real corre acá |
-| **TUPAD (UTN a distancia)** | Donde Juani enseña (Prog 1, Prog 4 desde agosto) |
+| **[[Formacion-Academica-UTN|TUPAD]] (UTN a distancia)** | Donde Juani enseña (Prog 1, Prog 4 desde agosto) |
 
 El vault solo menciona UTN. UNSL **no aparece en `Sobre-Mi.md` ni en ninguna otra parte hasta hoy**.
 

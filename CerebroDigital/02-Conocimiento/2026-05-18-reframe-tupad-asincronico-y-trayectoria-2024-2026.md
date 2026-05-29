@@ -11,7 +11,7 @@ Esta nota CORRIGE / COMPLETA la lectura de [[2026-05-18-trabajo-doble-tupad-prog
 
 ## Trayectoria real (corregida)
 
-| Período | Actividad principal | Trabaja | Estudia | Energía libre para gym |
+| Período | Actividad principal | Trabaja | Estudia | Energía libre para [[Lifestyle-e-Intereses|gym]] |
 |---------|---------------------|---------|---------|------------------------|
 | Marzo 2024 → verano 2026 (enero-feb-mar) | **Estudiando la tecnicatura de programación** | NO | SÍ | **alta** ← acá sostenía gym |
 | Verano 2026 → hoy | **Programa + da clases en TUPAD** | SÍ (doble) | NO | **baja** ← acá dejó gym (abril 2026) |
