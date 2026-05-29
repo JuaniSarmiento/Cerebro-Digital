@@ -8,7 +8,7 @@ auto_generated: true
 # Índice del Vault — Cerebro Digital
 
 > **Para el agente**: LEÉ ESTE ARCHIVO PRIMERO cuando Juani pida buscar algo. Cada nota tiene keywords de búsqueda. Encontrá la nota correcta acá y después leé el archivo completo.
-> **Última actualización**: 2026-05-27
+> **Última actualización**: 2026-05-29
 
 ---
 
@@ -35,6 +35,10 @@ auto_generated: true
 ### CerebroDigital.md
 **Este vault de Obsidian.** Sistema PKM con estructura PARA. Script de captura automática. Convenciones de frontmatter y wikilinks.
 `keywords: cerebro, digital, obsidian, vault, pkm, notas, sistema, captura`
+
+### VPS-Infraestructura.md
+**Servidor personal 24/7 — versión cloud del ecosistema Jarvis.** IP 2.24.122.56, usuario claude-bot, Ubuntu. Claude Code con Engram + bypassPermissions. Proyectos activos: wa-claude (bot WhatsApp con Claude Agent SDK + Baileys), zepp-health-cli (datos Amazfit), taskflow (demo FastAPI+React), clon del vault Cerebro-Digital. Complementario a [[Jarvis]] (local=voz, VPS=WhatsApp/SSH/24-7).
+`keywords: vps, servidor, infraestructura, claude-bot, wa-claude, whatsapp, baileys, zepp, amazfit, salud, taskflow, cloud, ssh, ubuntu, 24/7, bot`
 
 ### 2026-05-14-refactor-ai-native-ejercicios-reusables.md
 **Sesión larga de refactor en AI-Native N4.** Ejercicios como entidad de primera clase reusable (UUID propio + tabla N:M). 25 ejercicios canónicos PID-UTN cargados. 3 ADRs nuevos (047, 048, 049). Wizard IA standalone para generar ejercicios.
@@ -99,6 +103,10 @@ auto_generated: true
 ### TUPAD/2026-05-20-tup-marzo-2026-parcial1-alumnos-sin-entrega.md
 **15 alumnos sin entrega del 1er parcial tras 3 instancias.** C1-23: 5 de 19. C1-25: 10 de 21. Alerta: recuperatorio (assign 11381) posiblemente mal configurado. Próxima instancia 25/06/2026. Lista de nombres completa.
 `keywords: tupad, parcial, alumnos, entrega, c1-23, c1-25, seguimiento, assign, recuperatorio, marzo 2026`
+
+### Plataforma-Educativa/2026-05-29-ai-native-v5-baseline-auditoria-port.md
+**Auditoría y plan de port AI-Native-V5 (Maty ← Juani).** Dos repos: `MatyAlts/AI-Native-V5` (fork deployado en VPS, producción) vs `JuaniSarmiento/AI-Native-V5` (origen, viejo). Baseline congelado 29-may en `60ac9c6`. Maty = 60 commits sobre merge-base `a9eb547` (32 de Juani sobre el clon, 27 de Maty). 63 archivos difieren. 5 decisiones macro: Clerk+student_profile, poda EasyPanel, embeddings→Gemini, tutor anti-distracción 0s, prompts intactos. Plan: aislar delta del repo de Juani y portarlo al de Maty sin pisar lo de Maty.
+`keywords: ai-native, v5, port, maty, matyalts, fork, baseline, auditoria, diff, clerk, gemini, easypanel, tutor, deploy, vps, conflictos, merge`
 
 ---
 
@@ -282,5 +290,9 @@ auto_generated: true
 ---
 
 ## 03-Recursos/Logs-WhatsApp/
-**~30 logs de conversaciones WhatsApp (mayo 2026).** Sesiones de chat capturadas automáticamente. No indexados individualmente — buscar por fecha si se necesita contexto de una conversación específica.
-`keywords: whatsapp, logs, chat, conversaciones, historial`
+**Logs de conversaciones WhatsApp (mayo 2026, del 24 al 29).** Capturados automáticamente por el bot wa-claude del [[VPS-Infraestructura|VPS]]. Mezcla de `wa-chat` (chats sueltos) y `wa-session` (sesiones largas). No indexados individualmente — buscar por fecha si se necesita contexto de una conversación específica.
+`keywords: whatsapp, logs, chat, conversaciones, historial, wa-claude, sesiones`
+
+## 03-Recursos/Comidas-Diarias/
+**Registro diario de comidas e ingesta.** Una nota por día (`YYYY-MM-DD.md`). Complementa a [[Stock-Alimentos]].
+`keywords: comidas, dieta, alimentacion, nutricion, calorias, proteinas, registro diario`

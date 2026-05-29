@@ -115,4 +115,11 @@ Archivos especialmente sensibles:
 - GitHub Juani: https://github.com/JuaniSarmiento/AI-Native-V5
 - Merge-base comun: `a9eb547` (2026-05-25)
 - HEAD Juani al 29-may: `60ac9c6` (Merge PR #1 from MatyAlts)
-- Proyecto: Plataforma Educativa IA / Tesis doctoral Alberto Cortez UTN
+
+## Notas relacionadas
+
+- [[2026-05-20-ai-native-v3-estado-completo-tesis-cortez]] — snapshot V3, el estado previo del que parte esta historia
+- [[2026-05-18-plataforma-educativa-es-tesis-doctoral-cortez]] — reframe: la plataforma es la tesis doctoral de Cortez
+- [[Plataforma-Educativa-IA]] — nota raíz del proyecto
+- [[Alberto]] — Cortez, jefe/doctorando, dueño de la tesis
+- [[VPS-Infraestructura]] — el repo de Maty es el que está deployado en el VPS

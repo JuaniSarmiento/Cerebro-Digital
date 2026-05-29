@@ -11,6 +11,8 @@ prioridad: alta
 
 **Capa de voz + control GUI alrededor de Claude Code.** Push-to-talk, conversación continua, memoria delegada a Claude (Engram + vault Obsidian). No reemplaza a Claude Code: lo amplifica y le da boca y oídos.
 
+> Contraparte cloud: [[VPS-Infraestructura]] — mismo ecosistema, pero 24/7 vía WhatsApp/SSH en vez de voz local.
+
 ## Qué NO es
 
 - No es un proyecto desde cero — es una capa sobre Claude Code que ya tiene acceso a archivos, sistema y vault.
